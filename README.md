@@ -4,7 +4,7 @@
 
 ---
 
-Hello and welcome to my guide to creating aliases on Ubuntu. You can also find this on my [dev.to blog](https://dev.to/kurtissfrost) by clicking the button above. Before we begin, let me just say that I am no linux guru. There is probably another way to do this that is better but, this was how I learned how to do it and I want to share my process. For all examples listed below, I am using Ubuntu 22.04 LTS. Now,let's jump right on in!
+Hello and welcome to my guide to creating aliases on Ubuntu. You can also find this on my [dev.to blog](https://dev.to/kurtissfrost/ubuntu-aliases-by-a-beginner-for-beginners-1g3n) by clicking the button above. Before we begin, let me just say that I am no linux guru. There is probably another way to do this that is better but, this was how I learned how to do it and I want to share my process. For all examples listed below, I am using Ubuntu 22.04 LTS. Now,let's jump right on in!
 
 ---
 
