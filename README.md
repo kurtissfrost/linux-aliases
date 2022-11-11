@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F70A&center=true&vCenter=true&width=600&height=100&lines=Linux-Aliases;nano+.bash_aliases;Quick+fox+jumps+nightly+above+wizardA+tutorial+by+a+beginner+for+beginners)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF700&center=true&vCenter=true&width=600&height=100&lines=Linux+Aliases;nano+.bash_aliases;A+tutorial+for+beginners+by+a+beginner)](https://git.io/typing-svg)
 
 [![UBUNTU - Aliases](https://img.shields.io/badge/UBUNTU-Aliases-E95420?logo=ubuntu&logoColor=ffffff)](https://)  [![Beginner - Guide](https://img.shields.io/badge/Beginner-Guide-99CC00?logo=readthedocs&logoColor=ffffff)](https://)  [![dev.to - Blog](https://img.shields.io/badge/dev.to-Blog-000000?logo=dev.to&logoColor=ffffff)](https://dev.to/kurtissfrost)  [![contributions - welcome](https://img.shields.io/badge/contributions-welcome-teal)]() 
 
