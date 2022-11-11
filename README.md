@@ -36,3 +36,7 @@ Remember earlier when I said to add the alias CA? This is why. Now that we have 
 Using this method, you are really only limited by your imagination.<br />
 
 Hopefully this guide has been helpful and you can create your own unique and interesting aliases.
+
+---
+
+[![Buy Me - A Coffee](https://img.shields.io/badge/Buy_Me-A_Coffee-FFDD00?style=for-the-badge&logo=buy+me+a+coffee&logoColor=ffffff)](https://www.buymeacoffee.com/frostkurti0)
